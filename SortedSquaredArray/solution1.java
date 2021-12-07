@@ -1,5 +1,10 @@
 import java.util.*;
 
+/**
+* @author mriad
+*
+* Problem: return a new sorted and squared array from a sorted array of integers
+*/
 class Program {
 
     public int[] sortedSquaredArray(int[] array) {
